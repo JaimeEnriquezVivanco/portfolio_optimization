@@ -10,13 +10,13 @@ In this project we analize and optimize an 11-asset portfolio (n-assets being po
 
 
 ## Files <a name="files"></a>
-1. **Riesgo crediticio.ipynb**: Notebook de Jupyter del proyecto. </br>
-2. **data/**: Folder con información en formato CSV.</br>
+1. **N-assets portfolio analysis and optimization.ipynb**: Project's Jupyter notebook. </br>
+2. **N-assets portfolio analysis and optimization.html**: HTML version of the notebook for visualization.</br>
 
 
 ## Instructions <a name="instructions"></a>
-1. Clonar repositorio
-2. Ejecutar notebook o visualizar en github.
+1. Clone repository
+2. Run notebook or open HTML file or visualize on Github
  
 
 ## Results <a name="results"></a>
